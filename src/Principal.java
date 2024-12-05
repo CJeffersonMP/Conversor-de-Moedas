@@ -44,7 +44,7 @@ public class Principal {
                     System.out.println("Programa finalizado");
                     break;
                 default:
-                    System.out.println("Opção ivalida");
+                    System.out.println("Opção ivalida, escolha um numero de 1 a 7");
                     break;
 
             }
